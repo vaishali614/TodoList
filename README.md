@@ -1,4 +1,4 @@
-## Todo_App
+## TodoList
 ![Screenshot (207)](https://user-images.githubusercontent.com/32364768/69499881-9d40ec00-0f1c-11ea-9b85-184d773531c3.png)
 
 
